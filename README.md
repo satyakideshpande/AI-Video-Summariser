@@ -79,7 +79,7 @@ Edit
 npm run dev
 API Endpoints 🌐
 Upload Video
-POST /upload-video/
+Endpoint: POST /upload-video/
 
 Body: multipart/form-data
 
@@ -93,7 +93,7 @@ Edit
   "summary": "This is the AI-generated summary of the video..."
 }
 Environment Variables 🔑
-Make sure to add a .env file with:
+Create a .env file with:
 
 plaintext
 Copy
